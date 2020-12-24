@@ -236,6 +236,7 @@ body {
     position: relative;
     display: block;
     overflow: hidden;
+    border: 2 px solid red;
 }
 
 .items .icons{
