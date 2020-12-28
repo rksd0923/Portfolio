@@ -215,6 +215,7 @@ body {
 .items li {
     display: inline-block;
     padding: 5px;
+    width: 30%;
 
 }
 
@@ -236,7 +237,7 @@ body {
     position: relative;
     display: block;
     overflow: hidden;
-    border: 2 px solid red;
+    
 }
 
 .items .icons{
@@ -386,4 +387,20 @@ body {
     width: 100%;
     height: 100%;
     background: url(../images/25.gif) center center no-repeat;
+}
+
+.tech{
+    font-size: 20px;
+    text-align: center;
+}
+
+.tech1{
+    font-size: 15px;
+    text-align: center;
+    line-height: 20px;
+}
+
+
+.items li{
+    border: 3px solid rgb(56, 55, 53);
 }
